@@ -1,0 +1,2792 @@
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 49.50ms
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 7.85ms
+200 POST /ajax/hvcnext (127.11.13.129) 7.85ms
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 9.27ms
+200 POST /ajax/hvcnext (127.11.13.129) 9.27ms
+200 POST /ajax/hvcnext (127.11.13.129) 9.27ms
+304 GET /static/cvc.html (127.11.13.129) 2.09ms
+304 GET /static/cvc.html (127.11.13.129) 2.09ms
+304 GET /static/cvc.html (127.11.13.129) 2.09ms
+304 GET /static/js/cvc.js (127.11.13.129) 0.74ms
+304 GET /static/js/cvc.js (127.11.13.129) 0.74ms
+304 GET /static/js/cvc.js (127.11.13.129) 0.74ms
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/cvcnext (127.11.13.129) 2.15ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.15ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.15ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.15ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/cvcnext (127.11.13.129) 1.91ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.91ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.91ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.91ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.91ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/cvcnext (127.11.13.129) 1.83ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.83ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.83ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.83ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.83ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.83ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/cvcnext (127.11.13.129) 2.20ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.20ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.20ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.20ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.20ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.20ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.20ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/cvcnext (127.11.13.129) 1.93ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.93ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.93ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.93ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.93ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.93ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.93ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.93ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/cvcnext (127.11.13.129) 1.79ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.79ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.79ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.79ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.79ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.79ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.79ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.79ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.79ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/cvcnext (127.11.13.129) 1.79ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.79ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.79ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.79ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.79ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.79ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.79ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.79ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.79ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.79ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/cvcnext (127.11.13.129) 1.86ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.86ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.86ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.86ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.86ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.86ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.86ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.86ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.86ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.86ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.86ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/cvcnext (127.11.13.129) 1.94ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.94ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.94ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.94ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.94ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.94ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.94ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.94ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.94ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.94ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.94ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.94ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/cvcnext (127.11.13.129) 1.83ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.83ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.83ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.83ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.83ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.83ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.83ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.83ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.83ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.83ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.83ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.83ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.83ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/cvcnext (127.11.13.129) 1.92ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.92ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.92ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.92ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.92ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.92ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.92ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.92ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.92ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.92ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.92ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.92ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.92ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.92ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/cvcnext (127.11.13.129) 1.96ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.96ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.96ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.96ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.96ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.96ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.96ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.96ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.96ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.96ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.96ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.96ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.96ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.96ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.96ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/cvcnext (127.11.13.129) 1.88ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.88ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.88ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.88ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.88ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.88ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.88ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.88ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.88ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.88ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.88ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.88ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.88ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.88ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.88ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.88ms
+304 GET /static/hvc.html (127.11.13.129) 2.63ms
+304 GET /static/hvc.html (127.11.13.129) 2.63ms
+304 GET /static/hvc.html (127.11.13.129) 2.63ms
+304 GET /static/hvc.html (127.11.13.129) 2.63ms
+304 GET /static/hvc.html (127.11.13.129) 2.63ms
+304 GET /static/hvc.html (127.11.13.129) 2.63ms
+304 GET /static/hvc.html (127.11.13.129) 2.63ms
+304 GET /static/hvc.html (127.11.13.129) 2.63ms
+304 GET /static/hvc.html (127.11.13.129) 2.63ms
+304 GET /static/hvc.html (127.11.13.129) 2.63ms
+304 GET /static/hvc.html (127.11.13.129) 2.63ms
+304 GET /static/hvc.html (127.11.13.129) 2.63ms
+304 GET /static/hvc.html (127.11.13.129) 2.63ms
+304 GET /static/hvc.html (127.11.13.129) 2.63ms
+304 GET /static/hvc.html (127.11.13.129) 2.63ms
+304 GET /static/hvc.html (127.11.13.129) 2.63ms
+304 GET /static/css/bootstrap.min.css (127.11.13.129) 0.80ms
+304 GET /static/css/bootstrap.min.css (127.11.13.129) 0.80ms
+304 GET /static/css/bootstrap.min.css (127.11.13.129) 0.80ms
+304 GET /static/css/bootstrap.min.css (127.11.13.129) 0.80ms
+304 GET /static/css/bootstrap.min.css (127.11.13.129) 0.80ms
+304 GET /static/css/bootstrap.min.css (127.11.13.129) 0.80ms
+304 GET /static/css/bootstrap.min.css (127.11.13.129) 0.80ms
+304 GET /static/css/bootstrap.min.css (127.11.13.129) 0.80ms
+304 GET /static/css/bootstrap.min.css (127.11.13.129) 0.80ms
+304 GET /static/css/bootstrap.min.css (127.11.13.129) 0.80ms
+304 GET /static/css/bootstrap.min.css (127.11.13.129) 0.80ms
+304 GET /static/css/bootstrap.min.css (127.11.13.129) 0.80ms
+304 GET /static/css/bootstrap.min.css (127.11.13.129) 0.80ms
+304 GET /static/css/bootstrap.min.css (127.11.13.129) 0.80ms
+304 GET /static/css/bootstrap.min.css (127.11.13.129) 0.80ms
+304 GET /static/css/bootstrap.min.css (127.11.13.129) 0.80ms
+304 GET /static/css/styles.css (127.11.13.129) 0.64ms
+304 GET /static/css/styles.css (127.11.13.129) 0.64ms
+304 GET /static/css/styles.css (127.11.13.129) 0.64ms
+304 GET /static/css/styles.css (127.11.13.129) 0.64ms
+304 GET /static/css/styles.css (127.11.13.129) 0.64ms
+304 GET /static/css/styles.css (127.11.13.129) 0.64ms
+304 GET /static/css/styles.css (127.11.13.129) 0.64ms
+304 GET /static/css/styles.css (127.11.13.129) 0.64ms
+304 GET /static/css/styles.css (127.11.13.129) 0.64ms
+304 GET /static/css/styles.css (127.11.13.129) 0.64ms
+304 GET /static/css/styles.css (127.11.13.129) 0.64ms
+304 GET /static/css/styles.css (127.11.13.129) 0.64ms
+304 GET /static/css/styles.css (127.11.13.129) 0.64ms
+304 GET /static/css/styles.css (127.11.13.129) 0.64ms
+304 GET /static/css/styles.css (127.11.13.129) 0.64ms
+304 GET /static/css/styles.css (127.11.13.129) 0.64ms
+304 GET /static/js/bootstrap.min.js (127.11.13.129) 0.68ms
+304 GET /static/js/bootstrap.min.js (127.11.13.129) 0.68ms
+304 GET /static/js/bootstrap.min.js (127.11.13.129) 0.68ms
+304 GET /static/js/bootstrap.min.js (127.11.13.129) 0.68ms
+304 GET /static/js/bootstrap.min.js (127.11.13.129) 0.68ms
+304 GET /static/js/bootstrap.min.js (127.11.13.129) 0.68ms
+304 GET /static/js/bootstrap.min.js (127.11.13.129) 0.68ms
+304 GET /static/js/bootstrap.min.js (127.11.13.129) 0.68ms
+304 GET /static/js/bootstrap.min.js (127.11.13.129) 0.68ms
+304 GET /static/js/bootstrap.min.js (127.11.13.129) 0.68ms
+304 GET /static/js/bootstrap.min.js (127.11.13.129) 0.68ms
+304 GET /static/js/bootstrap.min.js (127.11.13.129) 0.68ms
+304 GET /static/js/bootstrap.min.js (127.11.13.129) 0.68ms
+304 GET /static/js/bootstrap.min.js (127.11.13.129) 0.68ms
+304 GET /static/js/bootstrap.min.js (127.11.13.129) 0.68ms
+304 GET /static/js/bootstrap.min.js (127.11.13.129) 0.68ms
+304 GET /static/js/common.js (127.11.13.129) 0.44ms
+304 GET /static/js/common.js (127.11.13.129) 0.44ms
+304 GET /static/js/common.js (127.11.13.129) 0.44ms
+304 GET /static/js/common.js (127.11.13.129) 0.44ms
+304 GET /static/js/common.js (127.11.13.129) 0.44ms
+304 GET /static/js/common.js (127.11.13.129) 0.44ms
+304 GET /static/js/common.js (127.11.13.129) 0.44ms
+304 GET /static/js/common.js (127.11.13.129) 0.44ms
+304 GET /static/js/common.js (127.11.13.129) 0.44ms
+304 GET /static/js/common.js (127.11.13.129) 0.44ms
+304 GET /static/js/common.js (127.11.13.129) 0.44ms
+304 GET /static/js/common.js (127.11.13.129) 0.44ms
+304 GET /static/js/common.js (127.11.13.129) 0.44ms
+304 GET /static/js/common.js (127.11.13.129) 0.44ms
+304 GET /static/js/common.js (127.11.13.129) 0.44ms
+304 GET /static/js/common.js (127.11.13.129) 0.44ms
+304 GET /static/js/hvc.js (127.11.13.129) 0.81ms
+304 GET /static/js/hvc.js (127.11.13.129) 0.81ms
+304 GET /static/js/hvc.js (127.11.13.129) 0.81ms
+304 GET /static/js/hvc.js (127.11.13.129) 0.81ms
+304 GET /static/js/hvc.js (127.11.13.129) 0.81ms
+304 GET /static/js/hvc.js (127.11.13.129) 0.81ms
+304 GET /static/js/hvc.js (127.11.13.129) 0.81ms
+304 GET /static/js/hvc.js (127.11.13.129) 0.81ms
+304 GET /static/js/hvc.js (127.11.13.129) 0.81ms
+304 GET /static/js/hvc.js (127.11.13.129) 0.81ms
+304 GET /static/js/hvc.js (127.11.13.129) 0.81ms
+304 GET /static/js/hvc.js (127.11.13.129) 0.81ms
+304 GET /static/js/hvc.js (127.11.13.129) 0.81ms
+304 GET /static/js/hvc.js (127.11.13.129) 0.81ms
+304 GET /static/js/hvc.js (127.11.13.129) 0.81ms
+304 GET /static/js/hvc.js (127.11.13.129) 0.81ms
+304 GET /static/js/jquery.js (127.11.13.129) 0.54ms
+304 GET /static/js/jquery.js (127.11.13.129) 0.54ms
+304 GET /static/js/jquery.js (127.11.13.129) 0.54ms
+304 GET /static/js/jquery.js (127.11.13.129) 0.54ms
+304 GET /static/js/jquery.js (127.11.13.129) 0.54ms
+304 GET /static/js/jquery.js (127.11.13.129) 0.54ms
+304 GET /static/js/jquery.js (127.11.13.129) 0.54ms
+304 GET /static/js/jquery.js (127.11.13.129) 0.54ms
+304 GET /static/js/jquery.js (127.11.13.129) 0.54ms
+304 GET /static/js/jquery.js (127.11.13.129) 0.54ms
+304 GET /static/js/jquery.js (127.11.13.129) 0.54ms
+304 GET /static/js/jquery.js (127.11.13.129) 0.54ms
+304 GET /static/js/jquery.js (127.11.13.129) 0.54ms
+304 GET /static/js/jquery.js (127.11.13.129) 0.54ms
+304 GET /static/js/jquery.js (127.11.13.129) 0.54ms
+304 GET /static/js/jquery.js (127.11.13.129) 0.54ms
+304 GET /static/js/spin.min.js (127.11.13.129) 1.74ms
+304 GET /static/js/spin.min.js (127.11.13.129) 1.74ms
+304 GET /static/js/spin.min.js (127.11.13.129) 1.74ms
+304 GET /static/js/spin.min.js (127.11.13.129) 1.74ms
+304 GET /static/js/spin.min.js (127.11.13.129) 1.74ms
+304 GET /static/js/spin.min.js (127.11.13.129) 1.74ms
+304 GET /static/js/spin.min.js (127.11.13.129) 1.74ms
+304 GET /static/js/spin.min.js (127.11.13.129) 1.74ms
+304 GET /static/js/spin.min.js (127.11.13.129) 1.74ms
+304 GET /static/js/spin.min.js (127.11.13.129) 1.74ms
+304 GET /static/js/spin.min.js (127.11.13.129) 1.74ms
+304 GET /static/js/spin.min.js (127.11.13.129) 1.74ms
+304 GET /static/js/spin.min.js (127.11.13.129) 1.74ms
+304 GET /static/js/spin.min.js (127.11.13.129) 1.74ms
+304 GET /static/js/spin.min.js (127.11.13.129) 1.74ms
+304 GET /static/js/spin.min.js (127.11.13.129) 1.74ms
+stupid
+200 POST /ajax/cvcnext (127.11.13.129) 2.35ms
+intelligent
+intelligent
+200 POST /ajax/cvcnext (127.11.13.129) 1.84ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.84ms
+stupid
+stupid
+stupid
+200 POST /ajax/cvcnext (127.11.13.129) 1.73ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.73ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.73ms
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/cvcnext (127.11.13.129) 1.39ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.39ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.39ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.39ms
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/cvcnext (127.11.13.129) 1.45ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.45ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.45ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.45ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.45ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/cvcnext (127.11.13.129) 1.59ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.59ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.59ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.59ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.59ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.59ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/cvcnext (127.11.13.129) 1.89ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.89ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.89ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.89ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.89ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.89ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.89ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/cvcnext (127.11.13.129) 2.17ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.17ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.17ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.17ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.17ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.17ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.17ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.17ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/cvcnext (127.11.13.129) 2.05ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.05ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.05ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.05ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.05ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.05ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.05ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.05ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.05ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/cvcnext (127.11.13.129) 2.00ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.00ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.00ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.00ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.00ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.00ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.00ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.00ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.00ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.00ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/cvcnext (127.11.13.129) 1.78ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.78ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.78ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.78ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.78ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.78ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.78ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.78ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.78ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.78ms
+200 POST /ajax/cvcnext (127.11.13.129) 1.78ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/cvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/cvcnext (127.11.13.129) 2.48ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/cvcnext (127.11.13.129) 3.06ms
+200 POST /ajax/cvcnext (127.11.13.129) 3.06ms
+200 POST /ajax/cvcnext (127.11.13.129) 3.06ms
+200 POST /ajax/cvcnext (127.11.13.129) 3.06ms
+200 POST /ajax/cvcnext (127.11.13.129) 3.06ms
+200 POST /ajax/cvcnext (127.11.13.129) 3.06ms
+200 POST /ajax/cvcnext (127.11.13.129) 3.06ms
+200 POST /ajax/cvcnext (127.11.13.129) 3.06ms
+200 POST /ajax/cvcnext (127.11.13.129) 3.06ms
+200 POST /ajax/cvcnext (127.11.13.129) 3.06ms
+200 POST /ajax/cvcnext (127.11.13.129) 3.06ms
+200 POST /ajax/cvcnext (127.11.13.129) 3.06ms
+200 POST /ajax/cvcnext (127.11.13.129) 3.06ms
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 3.61ms
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 3.41ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.41ms
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 7.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 7.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 7.40ms
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 2.55ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.55ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.55ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.55ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 2.27ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.27ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.27ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.27ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.27ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 2.35ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.35ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.35ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.35ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.35ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.35ms
+301 GET / (127.11.13.129) 0.45ms
+301 GET / (127.11.13.129) 0.45ms
+301 GET / (127.11.13.129) 0.45ms
+301 GET / (127.11.13.129) 0.45ms
+301 GET / (127.11.13.129) 0.45ms
+301 GET / (127.11.13.129) 0.45ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 3.00ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.00ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.00ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.00ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.00ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.00ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.00ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 2.33ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.33ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.33ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.33ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.33ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.33ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.33ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.33ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 3.01ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.01ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.01ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.01ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.01ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.01ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.01ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.01ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.01ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 14.78ms
+200 POST /ajax/hvcnext (127.11.13.129) 14.78ms
+200 POST /ajax/hvcnext (127.11.13.129) 14.78ms
+200 POST /ajax/hvcnext (127.11.13.129) 14.78ms
+200 POST /ajax/hvcnext (127.11.13.129) 14.78ms
+200 POST /ajax/hvcnext (127.11.13.129) 14.78ms
+200 POST /ajax/hvcnext (127.11.13.129) 14.78ms
+200 POST /ajax/hvcnext (127.11.13.129) 14.78ms
+200 POST /ajax/hvcnext (127.11.13.129) 14.78ms
+200 POST /ajax/hvcnext (127.11.13.129) 14.78ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 6.49ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.49ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.49ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.49ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.49ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.49ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.49ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.49ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.49ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.49ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.49ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 6.42ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.42ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.42ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.42ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.42ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.42ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.42ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.42ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.42ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.42ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.42ms
+200 POST /ajax/hvcnext (127.11.13.129) 6.42ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 2.10ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.10ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.10ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.10ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.10ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.10ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.10ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.10ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.10ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.10ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.10ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.10ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.10ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 2.55ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.55ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.55ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.55ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.55ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.55ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.55ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.55ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.55ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.55ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.55ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.55ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.55ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.55ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 2.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.82ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 5.30ms
+200 POST /ajax/hvcnext (127.11.13.129) 5.30ms
+200 POST /ajax/hvcnext (127.11.13.129) 5.30ms
+200 POST /ajax/hvcnext (127.11.13.129) 5.30ms
+200 POST /ajax/hvcnext (127.11.13.129) 5.30ms
+200 POST /ajax/hvcnext (127.11.13.129) 5.30ms
+200 POST /ajax/hvcnext (127.11.13.129) 5.30ms
+200 POST /ajax/hvcnext (127.11.13.129) 5.30ms
+200 POST /ajax/hvcnext (127.11.13.129) 5.30ms
+200 POST /ajax/hvcnext (127.11.13.129) 5.30ms
+200 POST /ajax/hvcnext (127.11.13.129) 5.30ms
+200 POST /ajax/hvcnext (127.11.13.129) 5.30ms
+200 POST /ajax/hvcnext (127.11.13.129) 5.30ms
+200 POST /ajax/hvcnext (127.11.13.129) 5.30ms
+200 POST /ajax/hvcnext (127.11.13.129) 5.30ms
+200 POST /ajax/hvcnext (127.11.13.129) 5.30ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 17.60ms
+200 POST /ajax/hvcnext (127.11.13.129) 17.60ms
+200 POST /ajax/hvcnext (127.11.13.129) 17.60ms
+200 POST /ajax/hvcnext (127.11.13.129) 17.60ms
+200 POST /ajax/hvcnext (127.11.13.129) 17.60ms
+200 POST /ajax/hvcnext (127.11.13.129) 17.60ms
+200 POST /ajax/hvcnext (127.11.13.129) 17.60ms
+200 POST /ajax/hvcnext (127.11.13.129) 17.60ms
+200 POST /ajax/hvcnext (127.11.13.129) 17.60ms
+200 POST /ajax/hvcnext (127.11.13.129) 17.60ms
+200 POST /ajax/hvcnext (127.11.13.129) 17.60ms
+200 POST /ajax/hvcnext (127.11.13.129) 17.60ms
+200 POST /ajax/hvcnext (127.11.13.129) 17.60ms
+200 POST /ajax/hvcnext (127.11.13.129) 17.60ms
+200 POST /ajax/hvcnext (127.11.13.129) 17.60ms
+200 POST /ajax/hvcnext (127.11.13.129) 17.60ms
+200 POST /ajax/hvcnext (127.11.13.129) 17.60ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 2.44ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.44ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.44ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.44ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.44ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.44ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.44ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.44ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.44ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.44ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.44ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.44ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.44ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.44ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.44ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.44ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.44ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.44ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 2.23ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.23ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.23ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.23ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.23ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.23ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.23ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.23ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.23ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.23ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.23ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.23ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.23ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.23ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.23ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.23ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.23ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.23ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.23ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.40ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.15ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.26ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.79ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.59ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.75ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.48ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.73ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.24ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.95ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.36ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.07ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.32ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.17ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.50ms
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+stupid
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+200 POST /ajax/hvcnext (127.11.13.129) 2.51ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+301 GET / (127.11.13.129) 0.53ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.13ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.20ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.82ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.38ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.63ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+200 POST /ajax/hvcnext (127.11.13.129) 3.87ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.50ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.21ms
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+intelligent
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
+200 POST /ajax/hvcnext (127.11.13.129) 4.75ms
